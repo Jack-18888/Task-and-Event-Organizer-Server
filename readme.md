@@ -4,7 +4,7 @@ This repository contains the **backend server** for the Personal Organizer proje
 
 ## Frontend
 
-You can find the corresponding frontend project with full integration details and UI [**here**](#).
+You can find the corresponding frontend project with full integration details and UI [**here**](https://github.com/Jack-18888/Task-and-Event-Organizer).
 
 > Replace `#` with the actual URL or relative path to your frontend project.
 
