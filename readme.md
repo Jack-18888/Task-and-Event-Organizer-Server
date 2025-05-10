@@ -1,6 +1,3 @@
-Here's a `README.md` file for your backend project, with a placeholder to embed the frontend link:
-
-```markdown
 # Personal Organizer Backend
 
 This repository contains the **backend server** for the Personal Organizer project. It is built using **Node.js**, **Express**, and **PostgreSQL**. It provides RESTful APIs for user authentication, task management, and event scheduling.
@@ -13,8 +10,6 @@ This repository contains the **backend server** for the Personal Organizer proje
 - Protected routes for authorized users only
 
 ## Folder Structure
-
-```
 
 backend/
 ├── models/             # Database interaction logic
@@ -29,15 +24,12 @@ backend/
 │   └── index.js
 └── server.js           # Server setup and route mounting
 
-````
-
 ## Setup Instructions
 
 1. Clone this repository.
 2. Install dependencies:
    ```bash
    npm install
-````
 
 3. Set up a PostgreSQL database and configure environment variables in a `.env` file:
 
