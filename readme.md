@@ -2,27 +2,18 @@
 
 This repository contains the **backend server** for the Personal Organizer project. It is built using **Node.js**, **Express**, and **PostgreSQL**. It provides RESTful APIs for user authentication, task management, and event scheduling.
 
+## Frontend
+
+You can find the corresponding frontend project with full integration details and UI [**here**](#).
+
+> Replace `#` with the actual URL or relative path to your frontend project.
+
 ## Features
 
 - User registration and authentication using JWT
 - CRUD operations for tasks and events
 - PostgreSQL integration for persistent storage
 - Protected routes for authorized users only
-
-## Folder Structure
-
-backend/
-├── models/             # Database interaction logic
-│   ├── user.js
-│   ├── task.js
-│   └── event.js
-├── routes/             # API endpoints
-│   ├── auth.js
-│   ├── task.js
-│   └── event.js
-├── database/           # Database connection logic
-│   └── index.js
-└── server.js           # Server setup and route mounting
 
 ## Setup Instructions
 
@@ -78,12 +69,6 @@ node server.js
 - `POST /events` – Create a new event
 - `PUT /events/:id` – Update an event
 - `DELETE /events/:id` – Delete an event
-
-## Frontend
-
-You can find the corresponding frontend project with full integration details and UI [**here**](#).
-
-> Replace `#` with the actual URL or relative path to your frontend project.
 
 ## License
 
