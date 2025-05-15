@@ -6,8 +6,6 @@ This repository contains the **backend server** for the Personal Organizer proje
 
 You can find the corresponding frontend project with full integration details and UI [**here**](https://github.com/Jack-18888/Task-and-Event-Organizer).
 
-> Replace `#` with the actual URL or relative path to your frontend project.
-
 ## Features
 
 - User registration and authentication using JWT
